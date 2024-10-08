@@ -9,63 +9,102 @@
 <details>
 <summary><strong>1. Arrays and Strings</strong></summary>
 > استكشاف العمليات المختلفة على المصفوفات والنصوص.  
+
+<div align="left">
+
 - 📄 Arrays  
-  
-- 📄 Strings
-- 
-- 📄 Matrix/Grid
-- 
+- 📄 Strings  
+- 📄 Matrix/Grid  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>2. Linked Lists</strong></summary>
 > هياكل البيانات المرتبطة واستخداماتها.  
+
+<div align="left">
+
 - 🔗 Singly Linked List  
 - 🔗 Doubly Linked List  
-- 🔗 Circular Linked List
+- 🔗 Circular Linked List  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>3. Stacks and Queues</strong></summary>
 > هياكل التخزين القائمة على المبادئ LIFO وFIFO.  
+
+<div align="left">
+
 - 🗂️ Stack  
 - 🗂️ Queue  
 - 🗂️ Priority Queue  
-- 🗂️ Deque
+- 🗂️ Deque  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>4. Trees</strong></summary>
 > الهياكل الشجرية وفروعها المتقدمة.  
+
+<div align="left">
+
 - 🌳 Binary Tree  
 - 🌳 Binary Search Tree (BST)  
 - 🌳 AVL Tree  
 - 🌳 Red-Black Tree  
 - 🌳 B-Tree  
-- 🌳 B+ Tree
+- 🌳 B+ Tree  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>5. Heaps</strong></summary>
 > هياكل البيانات الهرمية واستخداماتها في ترتيب الأولويات.  
+
+<div align="left">
+
 - 🔺 Binary Heap  
-- 🔺 Fibonacci Heap
+- 🔺 Fibonacci Heap  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>6. Hashing</strong></summary>
 > الجداول الهاشية ووظائف التجزئة.  
+
+<div align="left">
+
 - #️⃣ Hash Tables  
-- #️⃣ Hash Functions
+- #️⃣ Hash Functions  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>7. Graphs</strong></summary>
 > تمثيل الرسوم البيانية وخوارزميات الاستكشاف.  
+
+<div align="left">
+
 - 📊 Graph Representation (Adjacency Matrix/List)  
 - 📊 Graph Traversal (DFS, BFS)  
 - 📊 Spanning Trees  
-- 📊 Shortest Path Algorithms (Dijkstra, Bellman-Ford)
+- 📊 Shortest Path Algorithms (Dijkstra, Bellman-Ford)  
+
+</div>
+
 </details>
 
 ---
@@ -75,6 +114,9 @@
 <details>
 <summary><strong>1. Sorting Algorithms</strong></summary>
 > مجموعة متنوعة من خوارزميات الترتيب.  
+
+<div align="left">
+
 - 🔄 Bubble Sort  
 - 🔄 Selection Sort  
 - 🔄 Insertion Sort  
@@ -82,54 +124,93 @@
 - 🔄 Quick Sort  
 - 🔄 Heap Sort  
 - 🔄 Counting Sort  
-- 🔄 Radix Sort
+- 🔄 Radix Sort  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>2. Searching Algorithms</strong></summary>
 > خوارزميات البحث في البيانات.  
+
+<div align="left">
+
 - 🔍 Linear Search  
-- 🔍 Binary Search
+- 🔍 Binary Search  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>3. Dynamic Programming</strong></summary>
 > حل المشكلات المعقدة عبر تخزين الحلول الجزئية.  
+
+<div align="left">
+
 - 🧮 Fibonacci Sequence  
 - 🧮 Longest Common Subsequence  
-- 🧮 Knapsack Problem
+- 🧮 Knapsack Problem  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>4. Greedy Algorithms</strong></summary>
 > خوارزميات الجشع لحل المشكلات بطريقة سريعة.  
+
+<div align="left">
+
 - 💡 Huffman Coding  
 - 💡 Kruskal’s Algorithm  
-- 💡 Prim’s Algorithm
+- 💡 Prim’s Algorithm  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>5. Backtracking</strong></summary>
 > تقنيات العودة لحل مشكلات الاستكشاف.  
+
+<div align="left">
+
 - 🧩 N-Queens Problem  
-- 🧩 Sudoku Solver
+- 🧩 Sudoku Solver  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>6. Divide and Conquer</strong></summary>
 > تقسيم المشكلة إلى أجزاء صغيرة وحلها.  
+
+<div align="left">
+
 - ⚔️ Merge Sort  
 - ⚔️ Quick Sort  
-- ⚔️ Binary Search
+- ⚔️ Binary Search  
+
+</div>
+
 </details>
 
 <details>
 <summary><strong>7. Graph Algorithms</strong></summary>
 > خوارزميات الرسوم البيانية المتقدمة.  
+
+<div align="left">
+
 - 🔗 Depth-First Search (DFS)  
 - 🔗 Breadth-First Search (BFS)  
 - 🔗 Dijkstra’s Algorithm  
-- 🔗 Bellman-Ford Algorithm
+- 🔗 Bellman-Ford Algorithm  
+
+</div>
+
 </details>
 
 ---
@@ -139,6 +220,8 @@
 <details>
 <summary><strong>Complexity Topics</strong></summary>
 
+<div align="left">
+
 - ⏳ **[Time Complexity](#time-complexity)**  
 > تحليل الزمن اللازم لتنفيذ الخوارزميات.
 
@@ -147,6 +230,9 @@
 
 - 🧮 **[Big O Notation](#big-o-notation)**  
 > الأساسيات لتقييم تعقيد الخوارزميات.
+
+</div>
+
 </details>
 
 ---
@@ -155,6 +241,8 @@
 
 <details>
 <summary><strong>Additional Resources</strong></summary>
+
+<div align="left">
 
 - 🌐 **[GeeksforGeeks](https://www.geeksforgeeks.org/)**  
 > مقالات شاملة وموسعة حول الخوارزميات وهياكل البيانات.
@@ -167,6 +255,9 @@
 
 - 🌐 **[TutorialsPoint](https://www.tutorialspoint.com/)**  
 > شرح مفصل للعديد من المواضيع البرمجية.
+
+</div>
+
 </details>
 
 ---
