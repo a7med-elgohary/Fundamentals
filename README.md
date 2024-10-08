@@ -1,4 +1,5 @@
-Data Structures- Arrays and Strings
+Data Structures
+- Arrays and Strings
     - Arrays 
     - Strings 
     - Matrix/Grid
