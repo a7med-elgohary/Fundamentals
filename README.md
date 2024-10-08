@@ -1,5 +1,5 @@
 # Data Structures
-- [Arrays and Strings](#arrays-and-strings)
+- [Arrays and Strings](https://github.com/a7med-elgohary/Fundamentals/tree/master/Arrays)
     - [Arrays](#Arrays)
     - [Strings](#strings)
     - [Matrix/Grid](#matrixgrid)
