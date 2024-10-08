@@ -8,7 +8,7 @@
 <details>
 <summary><strong>1. Arrays and Strings</strong></summary>
   
-> ستكشاف العمليات المختلفة على المصفوفات والنصوص. ><
+> ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
 
   - 📄 Arrays  
   - 📄 Strings  
@@ -20,6 +20,7 @@
 
 <details>
 <summary><strong>2. Linked Lists</strong></summary>
+  
 > هياكل البيانات المرتبطة واستخداماتها.  
 
 <div align="left">
@@ -34,6 +35,7 @@
 
 <details>
 <summary><strong>3. Stacks and Queues</strong></summary>
+  
 > هياكل التخزين القائمة على المبادئ LIFO وFIFO.  
 
 <div align="left">
@@ -49,6 +51,7 @@
 
 <details>
 <summary><strong>4. Trees</strong></summary>
+  
 > الهياكل الشجرية وفروعها المتقدمة.  
 
 <div align="left">
