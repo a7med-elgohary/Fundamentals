@@ -9,7 +9,7 @@
 
 > استكشاف العمليات المختلفة على المصفوفات والنصوص.
 
-<a href="https://www.geeksforgeeks.org/arrays-in-data-structure/" style="text-decoration: none; color: inherit;">📄 Arrays</a>  
+<a href="https://www.geeksforgeeks.org/arrays-in-data-structure/" style="text-decoration: none; color: inherit;">📄</a> Arrays  
 <a href="https://www.geeksforgeeks.org/strings-in-cpp/" style="text-decoration: none; color: inherit;">📄 Strings</a>  
 <a href="https://www.geeksforgeeks.org/matrix-in-data-structure/" style="text-decoration: none; color: inherit;">📄 Matrix/Grid</a>
 
