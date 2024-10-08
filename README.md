@@ -7,11 +7,12 @@
 
 <details>
 <summary><strong>1. Arrays and Strings</strong></summary>
-< ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
-<div align="left">
-- 📄 Arrays  
-- 📄 Strings  
-- 📄 Matrix/Grid  
+> ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
+<div align="left" style = "boxborder:4px">
+
+  - 📄 Arrays  
+  - 📄 Strings  
+  - 📄 Matrix/Grid  
 
 </div>
 
