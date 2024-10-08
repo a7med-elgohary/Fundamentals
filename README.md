@@ -8,7 +8,7 @@
 
 <details>
 <summary><strong>1. Arrays and Strings</strong></summary>
-> استكشاف العمليات المختلفة على المصفوفات والنصوص.  
+> استكشاف العمليات المختلفة على المصفوفات والنصوص. < 
 
 <div align="left">
 
