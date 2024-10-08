@@ -11,7 +11,7 @@
 > ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
 
   
-  - [📄]([https://github.com/a7med-elgohary/Fundamentals/tree/master/Arrays%20%26%20Strings](https://github.com/a7med-elgohary/Fundamentals/blob/master/Arrays%20%26%20Strings/Arrays_in_CSharp%20.md)](https://github.com/a7med-elgohary/Fundamentals/blob/master/Arrays%20%26%20Strings/Arrays_in_CSharp%20.md)) Arrays  
+  - [📄](https://github.com/a7med-elgohary/Fundamentals/blob/master/Arrays%20%26%20Strings/Arrays_in_CSharp%20.md) Arrays  
   - 📄 Strings  
   - 📄 Matrix/Grid  
 
