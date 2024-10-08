@@ -69,4 +69,91 @@
 
 ### 1. Sorting Algorithms  
 > مجموعة متنوعة من خوارزميات الترتيب.  
--
+- 🔄 [Bubble Sort](#bubble-sort)  
+- 🔄 [Selection Sort](#selection-sort)  
+- 🔄 [Insertion Sort](#insertion-sort)  
+- 🔄 [Merge Sort](#merge-sort)  
+- 🔄 [Quick Sort](#quick-sort)  
+- 🔄 [Heap Sort](#heap-sort)  
+- 🔄 [Counting Sort](#counting-sort)  
+- 🔄 [Radix Sort](#radix-sort)
+
+---
+
+### 2. Searching Algorithms  
+> خوارزميات البحث في البيانات.  
+- 🔍 [Linear Search](#linear-search)  
+- 🔍 [Binary Search](#binary-search)
+
+---
+
+### 3. Dynamic Programming  
+> حل المشكلات المعقدة عبر تخزين الحلول الجزئية.  
+- 🧮 [Fibonacci Sequence](#fibonacci-sequence)  
+- 🧮 [Longest Common Subsequence](#longest-common-subsequence)  
+- 🧮 [Knapsack Problem](#knapsack-problem)
+
+---
+
+### 4. Greedy Algorithms  
+> خوارزميات الجشع لحل المشكلات بطريقة سريعة.  
+- 💡 [Huffman Coding](#huffman-coding)  
+- 💡 [Kruskal’s Algorithm](#kruskals-algorithm)  
+- 💡 [Prim’s Algorithm](#prims-algorithm)
+
+---
+
+### 5. Backtracking  
+> تقنيات العودة لحل مشكلات الاستكشاف.  
+- 🧩 [N-Queens Problem](#n-queens-problem)  
+- 🧩 [Sudoku Solver](#sudoku-solver)
+
+---
+
+### 6. Divide and Conquer  
+> تقسيم المشكلة إلى أجزاء صغيرة وحلها.  
+- ⚔️ [Merge Sort](#merge-sort)  
+- ⚔️ [Quick Sort](#quick-sort)  
+- ⚔️ [Binary Search](#binary-search)
+
+---
+
+### 7. Graph Algorithms  
+> خوارزميات الرسوم البيانية المتقدمة.  
+- 🔗 [Depth-First Search (DFS)](#depth-first-search-dfs)  
+- 🔗 [Breadth-First Search (BFS)](#breadth-first-search-bfs)  
+- 🔗 [Dijkstra’s Algorithm](#dijkstras-algorithm)  
+- 🔗 [Bellman-Ford Algorithm](#bellman-ford-algorithm)
+
+---
+
+## 📏 Complexity Analysis
+
+- ⏳ **[Time Complexity](#time-complexity)**  
+> تحليل الزمن اللازم لتنفيذ الخوارزميات.
+
+- 🧠 **[Space Complexity](#space-complexity)**  
+> تحليل الذاكرة المطلوبة لتنفيذ الخوارزميات.
+
+- 🧮 **[Big O Notation](#big-o-notation)**  
+> الأساسيات لتقييم تعقيد الخوارزميات.
+
+---
+
+## 📖 Resources for Learning
+
+- 🌐 **[GeeksforGeeks](https://www.geeksforgeeks.org/)**  
+> مقالات شاملة وموسعة حول الخوارزميات وهياكل البيانات.
+
+- 🌐 **[Programiz](https://www.programiz.com/)**  
+> دروس تعليمية سهلة ومباشرة للمبتدئين.
+
+- 🌐 **[W3Schools](https://www.w3schools.com/)**  
+> تعلم البرمجة بأسلوب تفاعلي وسهل.
+
+- 🌐 **[TutorialsPoint](https://www.tutorialspoint.com/)**  
+> شرح مفصل للعديد من المواضيع البرمجية.
+
+---
+
+> **🎯 ملاحظة:** يمكنك تعديل المحتوى في هذا المستند لتخصيصه حسب احتياجاتك أو إضافة شرح مفصل في ملفات منفصلة.
