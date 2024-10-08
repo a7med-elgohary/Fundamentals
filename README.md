@@ -1,5 +1,4 @@
-# 📚 Data Structures and Algorithms 
-
+# 📚 Data Structures and Algorithms
 
 ---
 
@@ -7,111 +6,49 @@
 
 <details>
 <summary><strong>1. Arrays and Strings</strong></summary>
-  
-> ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
 
-  
-  - [📄](https://github.com/a7med-elgohary/Fundamentals/blob/master/Arrays%20%26%20Strings/Arrays_in_CSharp%20.md) Arrays  
-  - 📄 Strings  
-  - 📄 Matrix/Grid  
+> استكشاف العمليات المختلفة على المصفوفات والنصوص.
 
-</div>
+<a href="https://www.geeksforgeeks.org/arrays-in-data-structure/" style="text-decoration: none; color: inherit;">📄 Arrays</a>  
+<a href="https://www.geeksforgeeks.org/strings-in-cpp/" style="text-decoration: none; color: inherit;">📄 Strings</a>  
+<a href="https://www.geeksforgeeks.org/matrix-in-data-structure/" style="text-decoration: none; color: inherit;">📄 Matrix/Grid</a>
 
 </details>
 
 <details>
 <summary><strong>2. Linked Lists</strong></summary>
 
-  
-> هياكل البيانات المرتبطة واستخداماتها.  
+> هياكل البيانات المرتبطة واستخداماتها.
 
-<div align="left">
-
-- 🔗 Singly Linked List  
-- 🔗 Doubly Linked List  
-- 🔗 Circular Linked List  
-
-</div>
+<a href="https://www.geeksforgeeks.org/data-structures/linked-list/" style="text-decoration: none; color: inherit;">🔗 Singly Linked List</a>  
+<a href="https://www.geeksforgeeks.org/doubly-linked-list/" style="text-decoration: none; color: inherit;">🔗 Doubly Linked List</a>  
+<a href="https://www.geeksforgeeks.org/circular-linked-list/" style="text-decoration: none; color: inherit;">🔗 Circular Linked List</a>
 
 </details>
 
 <details>
 <summary><strong>3. Stacks and Queues</strong></summary>
 
-  
-> هياكل التخزين القائمة على المبادئ LIFO وFIFO.  
+> هياكل التخزين القائمة على المبادئ LIFO وFIFO.
 
-<div align="left">
-
-- 🗂️ Stack  
-- 🗂️ Queue  
-- 🗂️ Priority Queue  
-- 🗂️ Deque  
-
-</div>
+<a href="https://www.geeksforgeeks.org/stack-data-structure/" style="text-decoration: none; color: inherit;">🗂️ Stack</a>  
+<a href="https://www.geeksforgeeks.org/queue-data-structure/" style="text-decoration: none; color: inherit;">🗂️ Queue</a>  
+<a href="https://www.geeksforgeeks.org/priority-queue/" style="text-decoration: none; color: inherit;">🗂️ Priority Queue</a>  
+<a href="https://www.geeksforgeeks.org/deque-data-structure/" style="text-decoration: none; color: inherit;">🗂️ Deque</a>
 
 </details>
 
 <details>
 <summary><strong>4. Trees</strong></summary>
 
-  
-> الهياكل الشجرية وفروعها المتقدمة.  
+> الهياكل الشجرية وفروعها المتقدمة.
 
-<div align="left">
-
-- 🌳 Binary Tree  
-- 🌳 Binary Search Tree (BST)  
-- 🌳 AVL Tree  
-- 🌳 Red-Black Tree  
-- 🌳 B-Tree  
-- 🌳 B+ Tree  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>5. Heaps</strong></summary>
-  
-> هياكل البيانات الهرمية واستخداماتها في ترتيب الأولويات.  
-
-<div align="left">
-
-- 🔺 Binary Heap  
-- 🔺 Fibonacci Heap  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>6. Hashing</strong></summary>
-  
-> الجداول الهاشية ووظائف التجزئة.  
-
-<div align="left">
-
-- #️⃣ Hash Tables  
-- #️⃣ Hash Functions  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>7. Graphs</strong></summary>
-  
-> تمثيل الرسوم البيانية وخوارزميات الاستكشاف.  
-
-<div align="left">
-
-- 📊 Graph Representation (Adjacency Matrix/List)  
-- 📊 Graph Traversal (DFS, BFS)  
-- 📊 Spanning Trees  
-- 📊 Shortest Path Algorithms (Dijkstra, Bellman-Ford)  
-
-</div>
+<a href="https://www.geeksforgeeks.org/binary-tree-data-structure/" style="text-decoration: none; color: inherit;">🌳 Binary Tree</a>  
+<a href="https://www.geeksforgeeks.org/binary-search-tree-data-structure/" style="text-decoration: none; color: inherit;">🌳 Binary Search Tree (BST)</a>  
+<a href="https://www.geeksforgeeks.org/avl-tree-set-1-insertion/" style="text-decoration: none; color: inherit;">🌳 AVL Tree</a>  
+<a href="https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/" style="text-decoration: none; color: inherit;">🌳 Red-Black Tree</a>  
+<a href="https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/" style="text-decoration: none; color: inherit;">🌳 B-Tree</a>  
+<a href="https://www.geeksforgeeks.org/introduction-of-b-tree/" style="text-decoration: none; color: inherit;">🌳 B+ Tree</a>
 
 </details>
 
@@ -121,136 +58,17 @@
 
 <details>
 <summary><strong>1. Sorting Algorithms</strong></summary>
-  
-> مجموعة متنوعة من خوارزميات الترتيب.  
 
-<div align="left">
+> مجموعة متنوعة من خوارزميات الترتيب.
 
-- 🔄 Bubble Sort  
-- 🔄 Selection Sort  
-- 🔄 Insertion Sort  
-- 🔄 Merge Sort  
-- 🔄 Quick Sort  
-- 🔄 Heap Sort  
-- 🔄 Counting Sort  
-- 🔄 Radix Sort  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>2. Searching Algorithms</strong></summary>
-  
-> خوارزميات البحث في البيانات.  
-
-<div align="left">
-
-- 🔍 Linear Search  
-- 🔍 Binary Search  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>3. Dynamic Programming</strong></summary>
-  
-> حل المشكلات المعقدة عبر تخزين الحلول الجزئية.  
-
-<div align="left">
-
-- 🧮 Fibonacci Sequence  
-- 🧮 Longest Common Subsequence  
-- 🧮 Knapsack Problem  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>4. Greedy Algorithms</strong></summary>
-  
-> خوارزميات الجشع لحل المشكلات بطريقة سريعة.  
-
-<div align="left">
-
-- 💡 Huffman Coding  
-- 💡 Kruskal’s Algorithm  
-- 💡 Prim’s Algorithm  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>5. Backtracking</strong></summary>
-  
-> تقنيات العودة لحل مشكلات الاستكشاف.  
-
-<div align="left">
-
-- 🧩 N-Queens Problem  
-- 🧩 Sudoku Solver  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>6. Divide and Conquer</strong></summary>
-  
-> تقسيم المشكلة إلى أجزاء صغيرة وحلها.  
-
-<div align="left">
-
-- ⚔️ Merge Sort  
-- ⚔️ Quick Sort  
-- ⚔️ Binary Search  
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>7. Graph Algorithms</strong></summary>
-  
-> خوارزميات الرسوم البيانية المتقدمة.  
-
-<div align="left">
-
-- 🔗 Depth-First Search (DFS)  
-- 🔗 Breadth-First Search (BFS)  
-- 🔗 Dijkstra’s Algorithm  
-- 🔗 Bellman-Ford Algorithm  
-
-</div>
-
-</details>
-
----
-
-## 📏 Complexity Analysis
-
-<details>
-<summary><strong>Complexity Topics</strong></summary>
-
-
-<div align="left">
-
-- ⏳ **[Time Complexity](#time-complexity)**
-- 
-> تحليل الزمن اللازم لتنفيذ الخوارزميات.
-
-- 🧠 **[Space Complexity](#space-complexity)**
--   
-> تحليل الذاكرة المطلوبة لتنفيذ الخوارزميات.
-
-- 🧮 **[Big O Notation](#big-o-notation)**
-- 
-> الأساسيات لتقييم تعقيد الخوارزميات.
-
-</div>
+<a href="https://www.geeksforgeeks.org/bubble-sort/" style="text-decoration: none; color: inherit;">🔄 Bubble Sort</a>  
+<a href="https://www.geeksforgeeks.org/selection-sort/" style="text-decoration: none; color: inherit;">🔄 Selection Sort</a>  
+<a href="https://www.geeksforgeeks.org/insertion-sort/" style="text-decoration: none; color: inherit;">🔄 Insertion Sort</a>  
+<a href="https://www.geeksforgeeks.org/merge-sort/" style="text-decoration: none; color: inherit;">🔄 Merge Sort</a>  
+<a href="https://www.geeksforgeeks.org/quick-sort/" style="text-decoration: none; color: inherit;">🔄 Quick Sort</a>  
+<a href="https://www.geeksforgeeks.org/heap-sort/" style="text-decoration: none; color: inherit;">🔄 Heap Sort</a>  
+<a href="https://www.geeksforgeeks.org/counting-sort/" style="text-decoration: none; color: inherit;">🔄 Counting Sort</a>  
+<a href="https://www.geeksforgeeks.org/radix-sort/" style="text-decoration: none; color: inherit;">🔄 Radix Sort</a>
 
 </details>
 
@@ -261,27 +79,9 @@
 <details>
 <summary><strong>Additional Resources</strong></summary>
 
-<div align="left">
-
-- 🌐 **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
-
-> مقالات شاملة وموسعة حول الخوارزميات وهياكل البيانات.
-
-- 🌐 **[Programiz](https://www.programiz.com/)**
-  
-> دروس تعليمية سهلة ومباشرة للمبتدئين.
-
-- 🌐 **[W3Schools](https://www.w3schools.com/)**
-  
-> تعلم البرمجة بأسلوب تفاعلي وسهل.
-
-- 🌐 **[TutorialsPoint](https://www.tutorialspoint.com/)**
-   
-> شرح مفصل للعديد من المواضيع البرمجية.
-
-</div>
+<a href="https://www.geeksforgeeks.org/" style="text-decoration: none; color: inherit;">🌐 GeeksforGeeks</a>  
+<a href="https://www.programiz.com/" style="text-decoration: none; color: inherit;">🌐 Programiz</a>  
+<a href="https://www.w3schools.com/" style="text-decoration: none; color: inherit;">🌐 W3Schools</a>  
+<a href="https://www.tutorialspoint.com/" style="text-decoration: none; color: inherit;">🌐 TutorialsPoint</a>
 
 </details>
-
----
-عايز اضيف لينكان لكلي الي جمبو -ومش عايز اللون الازرق للينك 
