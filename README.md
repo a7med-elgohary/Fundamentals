@@ -12,7 +12,7 @@
 </div>
 
 <br>
-- <a href="https://www.geeksforgeeks.org/arrays-in-data-structure/" style="text-decoration: none; color: inherit;">📄 Arrays</a><br>
+- <a href="https://github.com/a7med-elgohary/Fundamentals/blob/master/Arrays%20%26%20Strings/Arrays_in_CSharp%20.md" style="text-decoration: none; color: inherit;">📄 Arrays</a><br>
 <br>
 - <a href="https://www.geeksforgeeks.org/strings-in-cpp/" style="text-decoration: none; color: inherit;">📄 Strings</a><br>
 <br>
