@@ -11,7 +11,7 @@
 
 <a href="https://www.geeksforgeeks.org/arrays-in-data-structure/" style="text-decoration: none; color: inherit;">📄</a> Arrays  
 <a href="https://www.geeksforgeeks.org/strings-in-cpp/" style="text-decoration: none; color: inherit;">📄</a> Strings  
-<a href="https://www.geeksforgeeks.org/matrix-in-data-structure/" style="text-decoration: none; color: inherit;">📄</a> Matrix/Grid
+<a href="https://www.geeksforgeeks.org/matrix-in-data-structure/" style="text-decoration: none; color: inherit;">📄</a> Matrix/Grid  
 
 </details>
 
@@ -52,6 +52,38 @@
 
 </details>
 
+<details>
+<summary><strong>5. Heaps</strong></summary>
+
+> هياكل البيانات القائمة على الشجرة المستخدمة لتخزين البيانات بشكل فعال.
+
+<a href="https://www.geeksforgeeks.org/binary-heap/" style="text-decoration: none; color: inherit;">💼</a> Binary Heap  
+<a href="https://www.geeksforgeeks.org/fibonacci-heap/" style="text-decoration: none; color: inherit;">💼</a> Fibonacci Heap  
+
+</details>
+
+<details>
+<summary><strong>6. Hashing</strong></summary>
+
+> تقنيات التخزين السريع للبيانات.
+
+<a href="https://www.geeksforgeeks.org/hashing-data-structure/" style="text-decoration: none; color: inherit;">🔑</a> Hash Tables  
+<a href="https://www.geeksforgeeks.org/hash-functions-in-data-structure/" style="text-decoration: none; color: inherit;">🔑</a> Hash Functions  
+
+</details>
+
+<details>
+<summary><strong>7. Graphs</strong></summary>
+
+> دراسة الهياكل البيانية وتطبيقاتها.
+
+<a href="https://www.geeksforgeeks.org/graph-representation/" style="text-decoration: none; color: inherit;">🕸️</a> Graph Representation (Adjacency Matrix/List)  
+<a href="https://www.geeksforgeeks.org/depth-first-search-or-dfs-in-graph/" style="text-decoration: none; color: inherit;">🕸️</a> Graph Traversal (DFS, BFS)  
+<a href="https://www.geeksforgeeks.org/minimum-spanning-tree-prims-algorithm/" style="text-decoration: none; color: inherit;">🕸️</a> Spanning Trees  
+<a href="https://www.geeksforgeeks.org/shortest-path-algorithms/" style="text-decoration: none; color: inherit;">🕸️</a> Shortest Path Algorithms (Dijkstra, Bellman-Ford)  
+
+</details>
+
 ---
 
 ## ⚙️ Algorithms
@@ -72,19 +104,95 @@
 
 </details>
 
+<details>
+<summary><strong>2. Searching Algorithms</strong></summary>
+
+> خوارزميات البحث الشائعة.
+
+<a href="https://www.geeksforgeeks.org/searching-algorithms/" style="text-decoration: none; color: inherit;">🔍</a> Linear Search  
+<a href="https://www.geeksforgeeks.org/binary-search/" style="text-decoration: none; color: inherit;">🔍</a> Binary Search  
+
+</details>
+
+<details>
+<summary><strong>3. Dynamic Programming</strong></summary>
+
+> تقنيات البرمجة الديناميكية.
+
+<a href="https://www.geeksforgeeks.org/fibonacci-number-2/" style="text-decoration: none; color: inherit;">💡</a> Fibonacci Sequence  
+<a href="https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/" style="text-decoration: none; color: inherit;">💡</a> Longest Common Subsequence  
+<a href="https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/" style="text-decoration: none; color: inherit;">💡</a> Knapsack Problem  
+
+</details>
+
+<details>
+<summary><strong>4. Greedy Algorithms</strong></summary>
+
+> خوارزميات الطمع المستخدمة في الحلول المثلى.
+
+<a href="https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/" style="text-decoration: none; color: inherit;">💰</a> Huffman Coding  
+<a href="https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm/" style="text-decoration: none; color: inherit;">💰</a> Kruskal’s Algorithm  
+<a href="https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-2/" style="text-decoration: none; color: inherit;">💰</a> Prim’s Algorithm  
+
+</details>
+
+<details>
+<summary><strong>5. Backtracking</strong></summary>
+
+> تقنيات العودة للخلف في حل المشكلات.
+
+<a href="https://www.geeksforgeeks.org/n-queens-problem-backtracking-2/" style="text-decoration: none; color: inherit;">🔄</a> N-Queens Problem  
+<a href="https://www.geeksforgeeks.org/sudoku-backtracking-uncertain-conditions/" style="text-decoration: none; color: inherit;">🔄</a> Sudoku Solver  
+
+</details>
+
+<details>
+<summary><strong>6. Divide and Conquer</strong></summary>
+
+> استراتيجيات التقسيم والانتصار.
+
+<a href="https://www.geeksforgeeks.org/merge-sort/" style="text-decoration: none; color: inherit;">⚔️</a> Merge Sort  
+<a href="https://www.geeksforgeeks.org/quick-sort/" style="text-decoration: none; color: inherit;">⚔️</a> Quick Sort  
+<a href="https://www.geeksforgeeks.org/binary-search/" style="text-decoration: none; color: inherit;">⚔️</a> Binary Search  
+
+</details>
+
+<details>
+<summary><strong>7. Graph Algorithms</strong></summary>
+
+> خوارزميات متخصصة لمعالجة الرسوم البيانية.
+
+<a href="https://www.geeksforgeeks.org/depth-first-search-or-dfs-in-graph/" style="text-decoration: none; color: inherit;">🕵️</a> Depth-First Search (DFS)  
+<a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-in-graph/" style="text-decoration: none; color: inherit;">🕵️</a> Breadth-First Search (BFS)  
+<a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-5/" style="text-decoration: none; color: inherit;">🕵️</a> Dijkstra’s Algorithm  
+<a href="https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/" style="text-decoration: none; color: inherit;">🕵️</a> Bellman-Ford Algorithm  
+
+</details>
+
 ---
 
 ## 📏 Complexity Analysis
 
-### <a id="time-complexity"></a>⏱️ Time Complexity
-- تحليل الزمن اللازم لتنفيذ الخوارزميات بفاعلية.
+<details>
+<summary><strong>1. Time Complexity</strong></summary>
 
-### <a id="space-complexity"></a>💾 Space Complexity
-- تحليل الذاكرة المطلوبة لتنفيذ الخوارزميات بطريقة فعالة.
+> تحليل الزمن اللازم لتنفيذ الخوارزميات بفاعلية.
 
-### <a id="big-o-notation"></a>📊 Big O Notation
-- المبادئ الأساسية لتقييم تعقيد الخوارزميات.
+</details>
 
+<details>
+<summary><strong>2. Space Complexity</strong></summary>
+
+> تحليل الذاكرة المطلوبة لتنفيذ الخوارزميات بطريقة فعالة.
+
+</details>
+
+<details>
+<summary><strong>3. Big O Notation</strong></summary>
+
+> المبادئ الأساسية لتقييم تعقيد الخوارزميات.
+
+</details>
 
 ---
 
