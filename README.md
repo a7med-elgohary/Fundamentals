@@ -198,3 +198,121 @@
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
 > خوارزميات الطمع المستخدمة في الحلول المثلى.
 </div>
+
+<br>
+- <a href="https://www.geeksforgeeks.org/huffman-coding-greedy-2/" style="text-decoration: none; color: inherit;">📜 Huffman Coding</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/kruskals-algorithm-using-disjoint-set-union/" style="text-decoration: none; color: inherit;">📜 Kruskal’s Algorithm</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/prims-minimum-spanning-tree-algorithm/" style="text-decoration: none; color: inherit;">📜 Prim’s Algorithm</a><br>
+<br>
+
+</details>
+
+<details>
+<summary><strong>5. Backtracking</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> خوارزميات العودة الخلفية لمشكلات البحث.
+</div>
+
+<br>
+- <a href="https://www.geeksforgeeks.org/n-queens-problem-backtracking-2/" style="text-decoration: none; color: inherit;">♟️ N-Queens Problem</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/sudoku-backtracking-7/" style="text-decoration: none; color: inherit;">♟️ Sudoku Solver</a><br>
+<br>
+
+</details>
+
+<details>
+<summary><strong>6. Divide and Conquer</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> تقنيات القسمة والتغلب المستخدمة في خوارزميات الترتيب والبحث.
+</div>
+
+<br>
+- <a href="https://www.geeksforgeeks.org/merge-sort/" style="text-decoration: none; color: inherit;">🧩 Merge Sort</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/quick-sort/" style="text-decoration: none; color: inherit;">🧩 Quick Sort</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/binary-search/" style="text-decoration: none; color: inherit;">🧩 Binary Search</a><br>
+<br>
+
+</details>
+
+<details>
+<summary><strong>7. Graph Algorithms</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> خوارزميات العمل على الرسوم البيانية.
+</div>
+
+<br>
+- <a href="https://www.geeksforgeeks.org/depth-first-search-or-dfs-in-graph/" style="text-decoration: none; color: inherit;">🔍 Depth-First Search (DFS)</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-in-graph/" style="text-decoration: none; color: inherit;">🔍 Breadth-First Search (BFS)</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm/" style="text-decoration: none; color: inherit;">🔍 Dijkstra’s Algorithm</a><br>
+<br>
+- <a href="https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/" style="text-decoration: none; color: inherit;">🔍 Bellman-Ford Algorithm</a><br>
+<br>
+
+</details>
+
+---
+
+## 📊 Complexity Analysis
+
+<details>
+<summary><strong>1. Time Complexity</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> تحليل الزمن المطلوب لتنفيذ الخوارزميات.
+</div>
+
+<br>
+</details>
+
+<details>
+<summary><strong>2. Space Complexity</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> تحليل المساحة المطلوبة لتنفيذ الخوارزميات.
+</div>
+
+<br>
+</details>
+
+<details>
+<summary><strong>3. Big O Notation</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> صيغة رياضية تستخدم لتمثيل تعقيد الوقت.
+</div>
+
+<br>
+</details>
+
+---
+
+## 📚 Resources for Learning
+
+<details>
+<summary><strong>1. Online Resources</strong></summary>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+> مصادر رائعة للتعلم عن هياكل البيانات والخوارزميات.
+</div>
+
+<br>
+- <a href="https://www.geeksforgeeks.org/" style="text-decoration: none; color: inherit;">🌐 GeeksforGeeks</a><br>
+<br>
+- <a href="https://www.programiz.com/" style="text-decoration: none; color: inherit;">🌐 Programiz</a><br>
+<br>
+- <a href="https://www.w3schools.com/" style="text-decoration: none; color: inherit;">🌐 W3Schools</a><br>
+<br>
+- <a href="https://www.tutorialspoint.com/" style="text-decoration: none; color: inherit;">🌐 TutorialsPoint</a><br>
+<br>
+
+</details>
