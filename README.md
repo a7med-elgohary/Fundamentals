@@ -1,1 +1,71 @@
-# Fundamentals
+Data Structures- Arrays and Strings
+    - Arrays [Done]
+    - Strings 
+    - Matrix/Grid
+- Linked Lists
+    - Singly Linked List
+    - Doubly Linked List
+    - Circular Linked List
+- Stacks and Queues
+    - Stack
+    - Queue
+    - Priority Queue
+    - Deque
+- Trees
+    - Binary Tree
+    - Binary Search Tree (BST)
+    - AVL Tree
+    - Red-Black Tree
+    - B-Tree
+    - B+ Tree
+- Heaps
+    - Binary Heap
+    - Fibonacci Heap
+- Hashing
+    - Hash Tables
+    - Hash Functions
+- Graphs
+    - Graph Representation (Adjacency Matrix/List)
+    - Graph Traversal (DFS, BFS)
+    - Spanning Trees
+    - Shortest Path Algorithms (Dijkstra, Bellman-Ford)
+Algorithms- Sorting Algorithms
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Heap Sort
+    - Counting Sort
+    - Radix Sort
+- Searching Algorithms
+    - Linear Search
+    - Binary Search
+- Dynamic Programming
+    - Fibonacci Sequence
+    - Longest Common Subsequence
+    - Knapsack Problem
+- Greedy Algorithms
+    - Huffman Coding
+    - Kruskal’s Algorithm
+    - Prim’s Algorithm
+- Backtracking
+    - N-Queens Problem
+    - Sudoku Solver
+- Divide and Conquer
+    - Merge Sort
+    - Quick Sort
+    - Binary Search
+- Graph Algorithms
+    - Depth-First Search (DFS)
+    - Breadth-First Search (BFS)
+    - Dijkstra’s Algorithm
+    - Bellman-Ford Algorithm
+Complexity Analysis- Time Complexity
+- Space Complexity
+- Big O Notation
+Resources for Learning- GeeksforGeeks
+- Programiz
+- W3Schools
+- TutorialsPoint
+
