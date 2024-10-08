@@ -8,11 +8,12 @@
 ## 🔢 Data Structures
 
 <details>
-<summary><strong>1. Arrays and Strings</strong></summary>
+
+  [1](https://github.com/a7med-elgohary/Fundamentals/tree/master/Arrays%20%26%20Strings).<summary><strong> Arrays and Strings</strong></summary>
   
 > ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
 
-  - 📄 [Arrays]  ()
+  - 📄 [Arrays](https://github.com/a7med-elgohary/Fundamentals/tree/master/Arrays%20%26%20Strings)
   - 📄 Strings  
   - 📄 Matrix/Grid  
 
