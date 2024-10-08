@@ -1,159 +1,159 @@
 # 📚 Data Structures and Algorithms Cheat Sheet
 
-استعراض شامل لهياكل البيانات والخوارزميات مع تصنيفها وشرح لكل منها. يمكنك استكشاف المواضيع المختلفة عبر الروابط التالية:
+استعراض شامل لهياكل البيانات والخوارزميات مع تصنيفها وشرح لكل منها. يمكنك استكشاف المواضيع المختلفة عبر الأقسام التالية:
 
 ---
 
 ## 🔢 Data Structures
 
-### 1. **[Arrays and Strings](#arrays-and-strings)**  
+### 1. Arrays and Strings  
    - **الوصف:** استكشاف العمليات المختلفة على المصفوفات والنصوص.
-     - **[Arrays](#arrays)**
-     - **[Strings](#strings)**
-     - **[Matrix/Grid](#matrixgrid)**
+     - Arrays
+     - Strings
+     - Matrix/Grid
 
 ---
 
-### 2. **[Linked Lists](#linked-lists)**  
+### 2. Linked Lists  
    - **الوصف:** هياكل البيانات المرتبطة واستخداماتها.
-     - **[Singly Linked List](#singly-linked-list)**
-     - **[Doubly Linked List](#doubly-linked-list)**
-     - **[Circular Linked List](#circular-linked-list)**
+     - Singly Linked List
+     - Doubly Linked List
+     - Circular Linked List
 
 ---
 
-### 3. **[Stacks and Queues](#stacks-and-queues)**  
+### 3. Stacks and Queues  
    - **الوصف:** هياكل التخزين القائمة على المبادئ LIFO وFIFO.
-     - **[Stack](#stack)**
-     - **[Queue](#queue)**
-     - **[Priority Queue](#priority-queue)**
-     - **[Deque](#deque)**
+     - Stack
+     - Queue
+     - Priority Queue
+     - Deque
 
 ---
 
-### 4. **[Trees](#trees)**  
+### 4. Trees  
    - **الوصف:** الهياكل الشجرية وفروعها المتقدمة.
-     - **[Binary Tree](#binary-tree)**
-     - **[Binary Search Tree (BST)](#binary-search-tree-bst)**
-     - **[AVL Tree](#avl-tree)**
-     - **[Red-Black Tree](#red-black-tree)**
-     - **[B-Tree](#b-tree)**
-     - **[B+ Tree](#b-plus-tree)**
+     - Binary Tree
+     - Binary Search Tree (BST)
+     - AVL Tree
+     - Red-Black Tree
+     - B-Tree
+     - B+ Tree
 
 ---
 
-### 5. **[Heaps](#heaps)**  
+### 5. Heaps  
    - **الوصف:** هياكل البيانات الهرمية واستخداماتها في ترتيب الأولويات.
-     - **[Binary Heap](#binary-heap)**
-     - **[Fibonacci Heap](#fibonacci-heap)**
+     - Binary Heap
+     - Fibonacci Heap
 
 ---
 
-### 6. **[Hashing](#hashing)**  
+### 6. Hashing  
    - **الوصف:** الجداول الهاشية ووظائف التجزئة.
-     - **[Hash Tables](#hash-tables)**
-     - **[Hash Functions](#hash-functions)**
+     - Hash Tables
+     - Hash Functions
 
 ---
 
-### 7. **[Graphs](#graphs)**  
+### 7. Graphs  
    - **الوصف:** تمثيل الرسوم البيانية وخوارزميات الاستكشاف.
-     - **[Graph Representation (Adjacency Matrix/List)](#graph-representation-adjacency-matrixlist)**
-     - **[Graph Traversal (DFS, BFS)](#graph-traversal-dfs-bfs)**
-     - **[Spanning Trees](#spanning-trees)**
-     - **[Shortest Path Algorithms (Dijkstra, Bellman-Ford)](#shortest-path-algorithms-dijkstra-bellman-ford)**
+     - Graph Representation (Adjacency Matrix/List)
+     - Graph Traversal (DFS, BFS)
+     - Spanning Trees
+     - Shortest Path Algorithms (Dijkstra, Bellman-Ford)
 
 ---
 
 ## ⚙️ Algorithms
 
-### 1. **[Sorting Algorithms](#sorting-algorithms)**  
+### 1. Sorting Algorithms  
    - **الوصف:** مجموعة متنوعة من خوارزميات الترتيب.
-     - **[Bubble Sort](#bubble-sort)**
-     - **[Selection Sort](#selection-sort)**
-     - **[Insertion Sort](#insertion-sort)**
-     - **[Merge Sort](#merge-sort)**
-     - **[Quick Sort](#quick-sort)**
-     - **[Heap Sort](#heap-sort)**
-     - **[Counting Sort](#counting-sort)**
-     - **[Radix Sort](#radix-sort)**
+     - Bubble Sort
+     - Selection Sort
+     - Insertion Sort
+     - Merge Sort
+     - Quick Sort
+     - Heap Sort
+     - Counting Sort
+     - Radix Sort
 
 ---
 
-### 2. **[Searching Algorithms](#searching-algorithms)**  
+### 2. Searching Algorithms  
    - **الوصف:** خوارزميات البحث في البيانات.
-     - **[Linear Search](#linear-search)**
-     - **[Binary Search](#binary-search)**
+     - Linear Search
+     - Binary Search
 
 ---
 
-### 3. **[Dynamic Programming](#dynamic-programming)**  
+### 3. Dynamic Programming  
    - **الوصف:** حل المشكلات المعقدة عبر تخزين الحلول الجزئية.
-     - **[Fibonacci Sequence](#fibonacci-sequence)**
-     - **[Longest Common Subsequence](#longest-common-subsequence)**
-     - **[Knapsack Problem](#knapsack-problem)**
+     - Fibonacci Sequence
+     - Longest Common Subsequence
+     - Knapsack Problem
 
 ---
 
-### 4. **[Greedy Algorithms](#greedy-algorithms)**  
+### 4. Greedy Algorithms  
    - **الوصف:** خوارزميات الجشع لحل المشكلات بطريقة سريعة.
-     - **[Huffman Coding](#huffman-coding)**
-     - **[Kruskal’s Algorithm](#kruskals-algorithm)**
-     - **[Prim’s Algorithm](#prims-algorithm)**
+     - Huffman Coding
+     - Kruskal’s Algorithm
+     - Prim’s Algorithm
 
 ---
 
-### 5. **[Backtracking](#backtracking)**  
+### 5. Backtracking  
    - **الوصف:** تقنيات العودة لحل مشكلات الاستكشاف.
-     - **[N-Queens Problem](#n-queens-problem)**
-     - **[Sudoku Solver](#sudoku-solver)**
+     - N-Queens Problem
+     - Sudoku Solver
 
 ---
 
-### 6. **[Divide and Conquer](#divide-and-conquer)**  
+### 6. Divide and Conquer  
    - **الوصف:** تقسيم المشكلة إلى أجزاء صغيرة وحلها.
-     - **[Merge Sort](#merge-sort)**
-     - **[Quick Sort](#quick-sort)**
-     - **[Binary Search](#binary-search)**
+     - Merge Sort
+     - Quick Sort
+     - Binary Search
 
 ---
 
-### 7. **[Graph Algorithms](#graph-algorithms)**  
+### 7. Graph Algorithms  
    - **الوصف:** خوارزميات الرسوم البيانية المتقدمة.
-     - **[Depth-First Search (DFS)](#depth-first-search-dfs)**
-     - **[Breadth-First Search (BFS)](#breadth-first-search-bfs)**
-     - **[Dijkstra’s Algorithm](#dijkstras-algorithm)**
-     - **[Bellman-Ford Algorithm](#bellman-ford-algorithm)**
+     - Depth-First Search (DFS)
+     - Breadth-First Search (BFS)
+     - Dijkstra’s Algorithm
+     - Bellman-Ford Algorithm
 
 ---
 
 ## 📏 Complexity Analysis
 
-- **[Time Complexity](#time-complexity)**  
+- **[Time Complexity]**  
     - تحليل الزمن اللازم لتنفيذ الخوارزميات.
   
-- **[Space Complexity](#space-complexity)**  
+- **[Space Complexity]**  
     - تحليل الذاكرة المطلوبة لتنفيذ الخوارزميات.
   
-- **[Big O Notation](#big-o-notation)**  
+- **[Big O Notation]**  
     - الأساسيات لتقييم تعقيد الخوارزميات.
 
 ---
 
 ## 📖 Resources for Learning
 
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/)**  
+- **GeeksforGeeks**  
     مقالات شاملة وموسعة حول الخوارزميات وهياكل البيانات.
   
-- **[Programiz](https://www.programiz.com/)**  
+- **Programiz**  
     دروس تعليمية سهلة ومباشرة للمبتدئين.
   
-- **[W3Schools](https://www.w3schools.com/)**  
+- **W3Schools**  
     تعلم البرمجة بأسلوب تفاعلي وسهل.
   
-- **[TutorialsPoint](https://www.tutorialspoint.com/)**  
+- **TutorialsPoint**  
     شرح مفصل للعديد من المواضيع البرمجية.
 
 ---
 
-> **🎯 ملاحظة:** يمكنك تعديل الروابط في هذا المستند لتشير إلى ملفاتك الخاصة بكل موضوع أو إضافة شرح مفصل في ملفات منفصلة.
+> **🎯 ملاحظة:** يمكنك تعديل المحتوى في هذا المستند لتخصيصه حسب احتياجاتك أو إضافة شرح مفصل في ملفات منفصلة.
