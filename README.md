@@ -1,6 +1,6 @@
 # Data Structures
 - [Arrays and Strings](#arrays-and-strings)
-    - [Arrays](#arrays)
+    - [Arrays](#Arrays)
     - [Strings](#strings)
     - [Matrix/Grid](#matrixgrid)
 - [Linked Lists](#linked-lists)
