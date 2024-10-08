@@ -1,6 +1,6 @@
 # Data Structures
 - [Arrays and Strings](#Arrays)
-    - [Arrays](#https://github.com/a7med-elgohary/Fundamentals/tree/master/Arrays)
+    - [Arrays](https://github.com/a7med-elgohary/Fundamentals/tree/master/Arrays)
     - [Strings](#strings)
     - [Matrix/Grid](#matrixgrid)
 - [Linked Lists](#linked-lists)
