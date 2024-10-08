@@ -6,128 +6,135 @@
 
 ## 🔢 Data Structures
 
-### 1. Arrays and Strings  
+<details>
+<summary><strong>1. Arrays and Strings</strong></summary>
 > استكشاف العمليات المختلفة على المصفوفات والنصوص.  
-- 📄 [Arrays](#arrays)  
-- 📄 [Strings](#strings)  
-- 📄 [Matrix/Grid](#matrixgrid)
+- 📄 Arrays  
+- 📄 Strings  
+- 📄 Matrix/Grid
+</details>
 
----
-
-### 2. Linked Lists  
+<details>
+<summary><strong>2. Linked Lists</strong></summary>
 > هياكل البيانات المرتبطة واستخداماتها.  
-- 🔗 [Singly Linked List](#singly-linked-list)  
-- 🔗 [Doubly Linked List](#doubly-linked-list)  
-- 🔗 [Circular Linked List](#circular-linked-list)
+- 🔗 Singly Linked List  
+- 🔗 Doubly Linked List  
+- 🔗 Circular Linked List
+</details>
 
----
-
-### 3. Stacks and Queues  
+<details>
+<summary><strong>3. Stacks and Queues</strong></summary>
 > هياكل التخزين القائمة على المبادئ LIFO وFIFO.  
-- 🗂️ [Stack](#stack)  
-- 🗂️ [Queue](#queue)  
-- 🗂️ [Priority Queue](#priority-queue)  
-- 🗂️ [Deque](#deque)
+- 🗂️ Stack  
+- 🗂️ Queue  
+- 🗂️ Priority Queue  
+- 🗂️ Deque
+</details>
 
----
-
-### 4. Trees  
+<details>
+<summary><strong>4. Trees</strong></summary>
 > الهياكل الشجرية وفروعها المتقدمة.  
-- 🌳 [Binary Tree](#binary-tree)  
-- 🌳 [Binary Search Tree (BST)](#binary-search-tree-bst)  
-- 🌳 [AVL Tree](#avl-tree)  
-- 🌳 [Red-Black Tree](#red-black-tree)  
-- 🌳 [B-Tree](#b-tree)  
-- 🌳 [B+ Tree](#b-plus-tree)
+- 🌳 Binary Tree  
+- 🌳 Binary Search Tree (BST)  
+- 🌳 AVL Tree  
+- 🌳 Red-Black Tree  
+- 🌳 B-Tree  
+- 🌳 B+ Tree
+</details>
 
----
-
-### 5. Heaps  
+<details>
+<summary><strong>5. Heaps</strong></summary>
 > هياكل البيانات الهرمية واستخداماتها في ترتيب الأولويات.  
-- 🔺 [Binary Heap](#binary-heap)  
-- 🔺 [Fibonacci Heap](#fibonacci-heap)
+- 🔺 Binary Heap  
+- 🔺 Fibonacci Heap
+</details>
 
----
-
-### 6. Hashing  
+<details>
+<summary><strong>6. Hashing</strong></summary>
 > الجداول الهاشية ووظائف التجزئة.  
-- #️⃣ [Hash Tables](#hash-tables)  
-- #️⃣ [Hash Functions](#hash-functions)
+- #️⃣ Hash Tables  
+- #️⃣ Hash Functions
+</details>
 
----
-
-### 7. Graphs  
+<details>
+<summary><strong>7. Graphs</strong></summary>
 > تمثيل الرسوم البيانية وخوارزميات الاستكشاف.  
-- 📊 [Graph Representation (Adjacency Matrix/List)](#graph-representation-adjacency-matrixlist)  
-- 📊 [Graph Traversal (DFS, BFS)](#graph-traversal-dfs-bfs)  
-- 📊 [Spanning Trees](#spanning-trees)  
-- 📊 [Shortest Path Algorithms (Dijkstra, Bellman-Ford)](#shortest-path-algorithms-dijkstra-bellman-ford)
+- 📊 Graph Representation (Adjacency Matrix/List)  
+- 📊 Graph Traversal (DFS, BFS)  
+- 📊 Spanning Trees  
+- 📊 Shortest Path Algorithms (Dijkstra, Bellman-Ford)
+</details>
 
 ---
 
 ## ⚙️ Algorithms
 
-### 1. Sorting Algorithms  
+<details>
+<summary><strong>1. Sorting Algorithms</strong></summary>
 > مجموعة متنوعة من خوارزميات الترتيب.  
-- 🔄 [Bubble Sort](#bubble-sort)  
-- 🔄 [Selection Sort](#selection-sort)  
-- 🔄 [Insertion Sort](#insertion-sort)  
-- 🔄 [Merge Sort](#merge-sort)  
-- 🔄 [Quick Sort](#quick-sort)  
-- 🔄 [Heap Sort](#heap-sort)  
-- 🔄 [Counting Sort](#counting-sort)  
-- 🔄 [Radix Sort](#radix-sort)
+- 🔄 Bubble Sort  
+- 🔄 Selection Sort  
+- 🔄 Insertion Sort  
+- 🔄 Merge Sort  
+- 🔄 Quick Sort  
+- 🔄 Heap Sort  
+- 🔄 Counting Sort  
+- 🔄 Radix Sort
+</details>
 
----
-
-### 2. Searching Algorithms  
+<details>
+<summary><strong>2. Searching Algorithms</strong></summary>
 > خوارزميات البحث في البيانات.  
-- 🔍 [Linear Search](#linear-search)  
-- 🔍 [Binary Search](#binary-search)
+- 🔍 Linear Search  
+- 🔍 Binary Search
+</details>
 
----
-
-### 3. Dynamic Programming  
+<details>
+<summary><strong>3. Dynamic Programming</strong></summary>
 > حل المشكلات المعقدة عبر تخزين الحلول الجزئية.  
-- 🧮 [Fibonacci Sequence](#fibonacci-sequence)  
-- 🧮 [Longest Common Subsequence](#longest-common-subsequence)  
-- 🧮 [Knapsack Problem](#knapsack-problem)
+- 🧮 Fibonacci Sequence  
+- 🧮 Longest Common Subsequence  
+- 🧮 Knapsack Problem
+</details>
 
----
-
-### 4. Greedy Algorithms  
+<details>
+<summary><strong>4. Greedy Algorithms</strong></summary>
 > خوارزميات الجشع لحل المشكلات بطريقة سريعة.  
-- 💡 [Huffman Coding](#huffman-coding)  
-- 💡 [Kruskal’s Algorithm](#kruskals-algorithm)  
-- 💡 [Prim’s Algorithm](#prims-algorithm)
+- 💡 Huffman Coding  
+- 💡 Kruskal’s Algorithm  
+- 💡 Prim’s Algorithm
+</details>
 
----
-
-### 5. Backtracking  
+<details>
+<summary><strong>5. Backtracking</strong></summary>
 > تقنيات العودة لحل مشكلات الاستكشاف.  
-- 🧩 [N-Queens Problem](#n-queens-problem)  
-- 🧩 [Sudoku Solver](#sudoku-solver)
+- 🧩 N-Queens Problem  
+- 🧩 Sudoku Solver
+</details>
 
----
-
-### 6. Divide and Conquer  
+<details>
+<summary><strong>6. Divide and Conquer</strong></summary>
 > تقسيم المشكلة إلى أجزاء صغيرة وحلها.  
-- ⚔️ [Merge Sort](#merge-sort)  
-- ⚔️ [Quick Sort](#quick-sort)  
-- ⚔️ [Binary Search](#binary-search)
+- ⚔️ Merge Sort  
+- ⚔️ Quick Sort  
+- ⚔️ Binary Search
+</details>
 
----
-
-### 7. Graph Algorithms  
+<details>
+<summary><strong>7. Graph Algorithms</strong></summary>
 > خوارزميات الرسوم البيانية المتقدمة.  
-- 🔗 [Depth-First Search (DFS)](#depth-first-search-dfs)  
-- 🔗 [Breadth-First Search (BFS)](#breadth-first-search-bfs)  
-- 🔗 [Dijkstra’s Algorithm](#dijkstras-algorithm)  
-- 🔗 [Bellman-Ford Algorithm](#bellman-ford-algorithm)
+- 🔗 Depth-First Search (DFS)  
+- 🔗 Breadth-First Search (BFS)  
+- 🔗 Dijkstra’s Algorithm  
+- 🔗 Bellman-Ford Algorithm
+</details>
 
 ---
 
 ## 📏 Complexity Analysis
+
+<details>
+<summary><strong>Complexity Topics</strong></summary>
 
 - ⏳ **[Time Complexity](#time-complexity)**  
 > تحليل الزمن اللازم لتنفيذ الخوارزميات.
@@ -137,10 +144,14 @@
 
 - 🧮 **[Big O Notation](#big-o-notation)**  
 > الأساسيات لتقييم تعقيد الخوارزميات.
+</details>
 
 ---
 
 ## 📖 Resources for Learning
+
+<details>
+<summary><strong>Additional Resources</strong></summary>
 
 - 🌐 **[GeeksforGeeks](https://www.geeksforgeeks.org/)**  
 > مقالات شاملة وموسعة حول الخوارزميات وهياكل البيانات.
@@ -153,6 +164,7 @@
 
 - 🌐 **[TutorialsPoint](https://www.tutorialspoint.com/)**  
 > شرح مفصل للعديد من المواضيع البرمجية.
+</details>
 
 ---
 
