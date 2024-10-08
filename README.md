@@ -1,3 +1,5 @@
+<a href="https://www.geeksforgeeks.org/" style="text-decoration: none; color: inherit;">GeeksforGeeks</a> | 
+<a href="https://www.programiz.com/" style="text-decoration: none; color: inherit;">Programiz</a>
 # 📚 Data Structures and Algorithms 
 
 
@@ -10,7 +12,7 @@
   
 > ستكشاف العمليات المختلفة على المصفوفات والنصوص. 
 
-  - 📄 Arrays  ()
+  - 📄 [Arrays]  ()
   - 📄 Strings  
   - 📄 Matrix/Grid  
 
