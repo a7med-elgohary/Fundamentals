@@ -10,8 +10,11 @@
 <summary><strong>1. Arrays and Strings</strong></summary>
 > استكشاف العمليات المختلفة على المصفوفات والنصوص.  
 - 📄 Arrays  
-- 📄 Strings  
+  
+- 📄 Strings
+- 
 - 📄 Matrix/Grid
+- 
 </details>
 
 <details>
