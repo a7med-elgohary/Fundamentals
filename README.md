@@ -1,5 +1,5 @@
 Data Structures- Arrays and Strings
-    - Arrays [Done]
+    - Arrays 
     - Strings 
     - Matrix/Grid
 - Linked Lists
@@ -68,4 +68,3 @@ Resources for Learning- GeeksforGeeks
 - Programiz
 - W3Schools
 - TutorialsPoint
-
